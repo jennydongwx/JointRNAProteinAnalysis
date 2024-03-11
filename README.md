@@ -17,14 +17,15 @@ Software installs
 Ths project is done in Jupyter Notebook. We started with the med263_jupyter environment we previously made in class, and installed additional packages using the following commands.
 
 pip install pandas==2.1.1
+pip install git+https://github.com/maximilian-heeg/UCell.git
 pip install scanpy
 pip install numpy
+pip install scvi-tools
 pip install scrublet
 pip install --upgrade setuptools
+pip install mygene
 
-Additional packages we used for preprocessing and integration but are not necessary for the in-class tutorial: 
-pip install git+https://github.com/maximilian-heeg/UCell.git
-pip install scvi-tools
+If running in the jupyter notebook cell, add ! in front. This is also included in our notebook. 
 
 The test if they were successfully installed, run the following block in the notebook:
 ![packageAssertion](https://github.com/jennydongwx/JointRNAProteinAnalysis/assets/59887313/d6b5437f-7ffe-41a8-8f72-8ff4de042b29)
