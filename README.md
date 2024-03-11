@@ -23,8 +23,11 @@ pip install scanpy
 pip install numpy
 pip install scvi-tools
 pip install scrublet
+pip install --upgrade setuptools
 
-The test if they were successfully installed,  -____________
+The test if they were successfully installed, run the following block in the notebook:
+![packageAssertion](https://github.com/jennydongwx/JointRNAProteinAnalysis/assets/59887313/d6b5437f-7ffe-41a8-8f72-8ff4de042b29)
+
 
 ### Data 
 While we address the preprocessing and integration in the tutorial, we have provided the already integrated data as a starting point for following along. 
