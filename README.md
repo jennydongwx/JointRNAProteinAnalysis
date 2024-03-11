@@ -10,3 +10,16 @@ We are putting a spin on a standard scRNA-seq analysis tutorial by incorporating
 This tutorial can serve as a pipeline that students can follow in their own biomedical research. As single cell sequencing becomes more prevalent, researchers may often find themselves with data collected through multiple single cell modalities across hundreds of individuals. This data needs to be integrated in a way where meaningful analyses can be performed downstream. 
 
 
+
+## Installation and Data Files
+### Data 
+While we address the preprocessing and integration in the tutorial, we have provided the already integrated data as a starting point for following along. 
+
+These data frames are too large to be uploaded on GitHub so they can be accessed here: 
+
+scRNA: https://drive.google.com/file/d/1L-cGY75HJoPmiDF7q5hRjXMas3YbNUmD/view?usp=share_link
+Cite Seq: https://drive.google.com/file/d/1kksWD7atJlxbrOMJYYkKyY1RM59QZ2Ej/view?usp=share_link
+
+You will need to be on a UCSD account to access. 
+
+
