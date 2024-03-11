@@ -12,6 +12,20 @@ This tutorial can serve as a pipeline that students can follow in their own biom
 
 
 ## Installation and Data Files
+### Software Installation
+Software installs
+Ths project is done in Jupyter Notebook. We started with the med263_jupyter environment we previously made in class, and installed additional packages using the following commands.  (CONFRIM THAT THIS WORKs-- otherwise change to colab)
+
+pip install pandas==2.1.1
+
+pip install git+https://github.com/maximilian-heeg/UCell.git
+pip install scanpy
+pip install numpy
+pip install scvi-tools
+pip install scrublet
+
+The test if they were successfully installed,  -____________
+
 ### Data 
 While we address the preprocessing and integration in the tutorial, we have provided the already integrated data as a starting point for following along. 
 
