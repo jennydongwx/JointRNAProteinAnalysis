@@ -16,14 +16,14 @@ This tutorial can serve as a pipeline that students can follow in their own biom
 Software installs
 Ths project is done in Jupyter Notebook. We started with the med263_jupyter environment we previously made in class, and installed additional packages using the following commands.
 
-pip install pandas==2.1.1
-pip install git+https://github.com/maximilian-heeg/UCell.git
-pip install scanpy
-pip install numpy
-pip install scvi-tools
-pip install scrublet
-pip install --upgrade setuptools
-pip install mygene
+pip install pandas==2.1.1 <br>
+pip install git+https://github.com/maximilian-heeg/UCell.git <br>
+pip install scanpy <br>
+pip install numpy <br>
+pip install scvi-tools <br>
+pip install scrublet <br>
+pip install --upgrade setuptools <br>
+pip install mygene <br>
 
 If running in the jupyter notebook cell, add ! in front. This is also included in our notebook. 
 
