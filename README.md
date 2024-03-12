@@ -32,7 +32,7 @@ pip install jupyter
 
 Next, install the rest of these packages:
 
-Launch jupyter and open final_project_localCURRENT.ipynb
+Launch jupyter and open final_project_local_final.ipynb
 
 pip install pandas==2.1.1 <br>
 pip install git+https://github.com/maximilian-heeg/UCell.git <br>
