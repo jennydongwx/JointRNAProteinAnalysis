@@ -59,4 +59,6 @@ Cite Seq: https://drive.google.com/file/d/1kksWD7atJlxbrOMJYYkKyY1RM59QZ2Ej/view
 
 You will need to be on a UCSD account to access. 
 
+Save these files as scrna_integrated.h5ad and cite_seq_integrated.h5ad in a directory named data. 
+
 
