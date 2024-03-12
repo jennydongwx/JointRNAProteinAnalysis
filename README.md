@@ -1,5 +1,10 @@
 # Med263 - Final Project
-In this tutorial 
+In this tutorial we: 
+
+1) Preprocess both datasets.
+2) Integrate the two datasets.
+3) Impute protein expression levels on the scRNA-seq using the joint embedding.
+4) Plot key protein and RNA interactions.
 
 ## Background
 ### Introduction
