@@ -1,6 +1,7 @@
 # Med263 - Final Project
-In this tutorial we: 
+Welcome to Group 2's MED263 tutorial on jointly analyzing scRNA-seq and CITE-seq data from different donors.
 
+In this tutorial we: 
 1) Preprocess both datasets.
 2) Integrate the two datasets.
 3) Impute protein expression levels on the scRNA-seq using the joint embedding.
