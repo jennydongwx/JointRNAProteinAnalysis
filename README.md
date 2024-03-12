@@ -14,10 +14,14 @@ This tutorial can serve as a pipeline that students can follow in their own biom
 ## Installation and Data Files
 ### Software Installation
 Software installs
-Ths project is done in Jupyter Notebook. We started with the med263_jupyter environment we previously made in class, and installed additional packages using the following commands. Some people may get errors using this environment. If you get errors, create a Python 3.9 environment the following way in Anaconda:
+Ths project is done in Jupyter Notebook. We started with the med263_jupyter environment we previously made in class, and installed additional packages using the following commands. 
+
+Some people may get errors using this environment. If you get errors, create a Python 3.9 environment the following way in Anaconda:
 
 conda create -n python3.9_env python=3.9
+
 conda activate python3.9_env
+
 pip install jupyter
 
 Next, install the rest of these packages:
