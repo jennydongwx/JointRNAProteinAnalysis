@@ -39,7 +39,6 @@ pip install git+https://github.com/maximilian-heeg/UCell.git <br>
 pip install scanpy <br>
 pip install numpy <br>
 pip install scvi-tools <br>
-pip install scrublet <br>
 pip install --upgrade setuptools <br>
 pip install mygene <br>
 
